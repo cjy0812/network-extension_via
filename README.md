@@ -1,4 +1,6 @@
-# network-extension
+# network-extension Via版本
+
+直接注入https://i.gkd.li的简单脚本，适用于via浏览器
 
 将 `GM_xmlhttpRequest` 注入 `unsafeWindow` 以绕过 cors 的限制
 
