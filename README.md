@@ -15,9 +15,9 @@ unsafeWindow.__NetworkExtension__ = {
 
 | 安装源    | 安装链接                                                                                                                           |
 | --------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| npmmirror | [network-extension.user.js](https://registry.npmmirror.com/@gkd-kit/network-extension/latest/files/dist/network-extension.user.js) |
-| jsdelivr  | [network-extension.user.js](https://fastly.jsdelivr.net/gh/gkd-kit/network-extension@main/dist/network-extension.user.js)          |
-| github    | [network-extension.user.js](https://github.com/gkd-kit/network-extension/raw/main/dist/network-extension.user.js)                  |
+| npmmirror并没有 | #[network-extension.user.js]() |
+| jsdelivr  | [network-extension.user.js](https://fastly.jsdelivr.net/gh/cjy0812/network-extension_via@main/dist/network-extension.user.js)          |
+| github    | [network-extension.user.js](https://github.com/cjy0812/network-extension_via/raw/main/dist/network-extension.user.js)                  |
 
 ## 使用
 
